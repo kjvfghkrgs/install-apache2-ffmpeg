@@ -2,7 +2,7 @@
 
 #### 1. Update apt and install GPU driver ####
 
-```sudo add-apt-repository ppa:graphics-drivers/ppa && sudo apt update && sudo apt upgrade -y && sudo apt install nvidia-driver-560 -y```
+```sudo add-apt-repository ppa:graphics-drivers/ppa && sudo apt update && sudo apt upgrade -y && sudo apt install nvidia-driver-570 -y```
 
 #### 2. Reboot the system ####
 
