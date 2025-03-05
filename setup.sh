@@ -64,7 +64,6 @@ sudo apt install -y \
 # Clone nv-codec-headers
 git clone https://git.videolan.org/git/ffmpeg/nv-codec-headers.git
 cd nv-codec-headers
-git checkout n12.0
 sudo make install
 cd -
 
